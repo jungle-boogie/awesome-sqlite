@@ -25,7 +25,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## (Visual) Admin Tools
 
 - [SQLiteStudio](http://sqlitestudio.pl)
-- -sqlitebowser0 (https://github.com/sqlitebrowser/sqlitebrowser)
+- [sqlitebowser] (https://github.com/sqlitebrowser/sqlitebrowser)
 
 
 ## Text-to-SQLite
